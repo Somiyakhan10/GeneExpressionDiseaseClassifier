@@ -293,72 +293,9 @@ GeneExpressionDiseaseClassifier/
 ├── streamlit_app.py          # Streamlit application
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
-└── LICENSE                   # MIT License
+
 ```
 
----
-
-## Future Work
-
-### Short-term
-- [ ] Add more disease datasets (Parkinson's, Alzheimer's, Lung Cancer)
-- [ ] Implement single-cell RNA-seq support
-- [ ] Add pathway enrichment analysis
-- [ ] Integration with GeneCards and NCBI APIs
-
-### Medium-term
-- [ ] Deep learning models (DNN, CNN, Transformers)
-- [ ] Survival analysis for prognosis
-- [ ] Drug response prediction
-- [ ] Multi-omics integration (methylation, CNV, mutations)
-
-### Long-term
-- [ ] Clinical deployment-ready API
-- [ ] Docker containerization
-- [ ] Cloud deployment (AWS/Azure/GCP)
-- [ ] Federated learning for multi-site data
-
----
-
-## References
-
-1. **NCBI GEO**: GSE45827 - Breast cancer gene expression
-   - [GEO Accession](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45827)
-
-2. **SHAP**: Lundberg, S. M., & Lee, S. I. (2017). "A unified approach to interpreting model predictions." NeurIPS.
-
-3. **XGBoost**: Chen, T., & Guestrin, C. (2016). "XGBoost: A scalable tree boosting system." KDD.
-
-4. **LightGBM**: Ke, G., et al. (2017). "LightGBM: A highly efficient gradient boosting decision tree." NeurIPS.
-
-5. **Breast Cancer Biology**: 
-   - Perou, C. M., et al. (2000). "Molecular portraits of human breast tumours." Nature.
-   - Prat, A., & Perou, C. M. (2011). "Deconstructing the molecular portraits of breast cancer." Molecular Oncology.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Author
-
-**MS Biotechnology Researcher**  
-Computational Biology & Bioinformatics  
-Machine Learning in Precision Medicine
-
----
-
-## Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{gene_expression_classifier,
-  author = {Somiya Khan},
-  title = {Gene Expression-Based Disease Classification and Biomarker Discovery},
   year = {2024},
   url = {https://github.com/Somiyakhan10/GeneExpressionDiseaseClassifier}
 }
