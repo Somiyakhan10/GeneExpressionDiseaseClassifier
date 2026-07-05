@@ -296,9 +296,5 @@ GeneExpressionDiseaseClassifier/
 
 ```
 
-  year = {2024},
-  url = {https://github.com/Somiyakhan10/GeneExpressionDiseaseClassifier}
-}
-```
 
 
