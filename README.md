@@ -12,17 +12,6 @@ This project implements a complete **bioinformatics pipeline** for analyzing gen
 The pipeline is designed for **Biotechnology and Bioinformatics researchers** and provides a production-ready framework for computational biology research.
 
 
-
-## Biological Background
-
-### Disease Focus: Breast Cancer
-
-Breast cancer is the most common cancer in women worldwide, with over **2.3 million new cases annually** (WHO, 2024). Gene expression profiling has revolutionized cancer diagnostics by enabling:
-
-- Molecular subtyping (Luminal A/B, HER2-enriched, Basal-like)
-- Prognostic prediction (risk assessment)
-- Therapeutic targeting (precision medicine)
-- Biomarker identification (early detection, treatment monitoring)
 ## Screenshots
 
 ### Streamlit Dashboard - Data Explorer
@@ -37,10 +26,7 @@ Breast cancer is the most common cancer in women worldwide, with over **2.3 mill
 
 *Predict Disease tab with model loaded and prediction results*
 
-### Volcano Plot
-<img width="1113" height="832" alt="image" src="https://github.com/user-attachments/assets/f913ab12-7b38-4536-a18a-22bd5e97d8cb" />
 
-*Volcano plot showing differentially expressed genes (red = significant)*
 
 ### Biomarker Heatmap
 
